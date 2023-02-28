@@ -4,7 +4,7 @@
 - 📫 How to reach me: candiryasin0@gmail.com
 
 ### Reach out to me
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/linkedin.svg" />][https://www.linkedin.com/in/yasin-%C3%A7and%C4%B1r-970b14228/]
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/linkedin.svg" />]
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/yasin-cnd) 
 
