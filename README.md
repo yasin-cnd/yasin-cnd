@@ -5,7 +5,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/yasin-cnd) 
 
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=yasin-cnd&show_icons=true&theme=gradient) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasin-cnd&show_icons=true&theme=gruvbox)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasin-cnd&Compact_layout=true)](https://github.com/yasin-cnd)
 
