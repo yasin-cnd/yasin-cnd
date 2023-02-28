@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Python and machine learning
+- 🔭 I’m currently working on Python and Machine Learning
 - 📫 How to reach me: candiryasin0@gmail.com
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/yasin-cnd) 
