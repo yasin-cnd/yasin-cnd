@@ -3,8 +3,6 @@
 - 🔭 I’m currently working on Python and Machine Learning
 - 📫 How to reach me: candiryasin0@gmail.com
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yasin-cnd" alt="yasinçandır" /> </p>
-
 ### Reach out to me
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/yasin-cnd) 
 [![Gmail Badge](https://img.shields.io/badge/-candiryasin0@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:candiryasin0@gmail.com "Connect via Email")
