@@ -10,4 +10,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasin-cnd&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasin-cnd&Compact_layout=true&theme=merko)](https://github.com/yasin-cnd)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasin-cnd&Compact_layout=true&theme=algolia)](https://github.com/yasin-cnd)
