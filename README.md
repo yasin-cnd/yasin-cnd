@@ -7,5 +7,5 @@
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=yasin-cnd&show_icons=true&theme=gradient) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasin-cnd&hide_progress=true)](https://github.com/yasin-cnd)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasin-cnd&Compact_layout=true)](https://github.com/yasin-cnd)
 
