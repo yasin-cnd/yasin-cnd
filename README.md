@@ -10,7 +10,7 @@
 [![](https://img.shields.io/badge/Kaggle-00599C?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/yasinncndr)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasin-cnd&show_icons=true&theme=tokyonight)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasin-cnd&Compact_layout=true&theme=aura)](https://github.com/yasin-cnd)
 
